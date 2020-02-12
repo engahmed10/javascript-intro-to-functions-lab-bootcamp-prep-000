@@ -1,4 +1,4 @@
-function shot()
+function shout()
 {
   
 }
