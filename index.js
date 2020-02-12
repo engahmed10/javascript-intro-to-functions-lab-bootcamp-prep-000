@@ -1,4 +1,4 @@
 function shout(str)
 {
-  return ""
+  return str
 }
