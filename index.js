@@ -1,5 +1,5 @@
-function shout(str)
+function shout(string)
 {
-  str.toUpperCase();
-  return str;
+  string.toUpperCase();
+  return string;
 }
